@@ -4,9 +4,9 @@
 
 Thanks for stopping by.
 
-I'm **Gabriel Martins**, a Software Engineering student at PUC-Campinas in Brazil. I build web applications in team projects and enjoy figuring out what should happen when the usual workflow takes an unexpected turn.
+I'm **Gabriel Martins**, a Software Engineering student at PUC-Campinas in Brazil. I work on software projects with classmates.
 
-Lately, that's meant working on medical scheduling. A calendar looks simple until someone changes a doctor's hours with appointments already booked.
+I'm currently working on **ConsultaFácil**, a web application that helps clinics manage doctors' schedules and book appointments.
 
 ## >_ About Me
 
@@ -16,48 +16,43 @@ Lately, that's meant working on medical scheduling. A calendar looks simple unti
 - **Coursework** · Python fundamentals
 - **Currently exploring** · How APIs and interfaces can help people handle conflicts and recover from errors
 
-## 🚀 >_ Featured Projects
-
-### Main Project
+## 🚀 >_ Software Projects
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/gabrielsuj/PI_IV-TIME-22"><img src="assets/consultafacil-card.png" width="520" alt="ConsultaFácil repository preview. A web app for medical scheduling." /></a>
+    <td align="center" width="33%">
+      <a href="https://github.com/gabrielsuj/PI_IV-TIME-22"><img src="https://opengraph.githubassets.com/1/gabrielsuj/PI_IV-TIME-22" width="100%" alt="ConsultaFácil GitHub repository preview" /></a>
       <br />
       <a href="https://github.com/gabrielsuj/PI_IV-TIME-22"><strong>ConsultaFácil</strong></a>
       <br />
-      <sub>A team project that helps clinics manage schedules and book appointments.</sub>
+      <sub>Medical appointment scheduling</sub>
     </td>
-  </tr>
-</table>
-
-- **Day and week views.** I built the React calendar views and added API support for fetching appointments by doctor and date range. [Calendar pull request](https://github.com/gabrielsuj/PI_IV-TIME-22/pull/80)
-- **Schedule conflicts.** I worked on the API checks and confirmation flow that show staff which appointments a schedule change would affect before they apply it. [Schedule changes pull request](https://github.com/gabrielsuj/PI_IV-TIME-22/pull/81)
-
-### More Team Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gabrielsuj/ES-PI2-2025-T3-G02"><img src="assets/notadez-card.png" width="360" alt="NotaDez, a grade management web app." /></a>
+    <td align="center" width="33%">
+      <a href="https://github.com/gabrielsuj/ES-PI2-2025-T3-G02"><img src="https://opengraph.githubassets.com/1/gabrielsuj/ES-PI2-2025-T3-G02" width="100%" alt="NotaDez GitHub repository preview" /></a>
       <br />
       <a href="https://github.com/gabrielsuj/ES-PI2-2025-T3-G02"><strong>NotaDez</strong></a>
       <br />
-      <sub>Helps teachers manage class rosters and calculate grades.</sub>
+      <sub>Class rosters and grade management</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/MiguelFMont/ES-PI3-2026-T1-G30"><img src="assets/mesclainvest-card.png" width="360" alt="MesclaInvest, a startup investing simulator." /></a>
+    <td align="center" width="33%">
+      <a href="https://github.com/MiguelFMont/ES-PI3-2026-T1-G30"><img src="https://opengraph.githubassets.com/1/MiguelFMont/ES-PI3-2026-T1-G30" width="100%" alt="MesclaInvest GitHub repository preview" /></a>
       <br />
       <a href="https://github.com/MiguelFMont/ES-PI3-2026-T1-G30"><strong>MesclaInvest</strong></a>
       <br />
-      <sub>A mobile app for simulated trading of startup tokens.</sub>
+      <sub>Simulated trading of startup tokens</sub>
     </td>
   </tr>
 </table>
 
+<details>
+<summary>My contributions</summary>
+
+- **ConsultaFácil calendar.** I built the React calendar views and added API support for fetching appointments by doctor and date range. [Calendar pull request](https://github.com/gabrielsuj/PI_IV-TIME-22/pull/80)
+- **ConsultaFácil schedule conflicts.** I worked on the API checks and confirmation flow that show staff which appointments a schedule change would affect before they apply it. [Schedule changes pull request](https://github.com/gabrielsuj/PI_IV-TIME-22/pull/81)
 - **NotaDez.** I implemented route authentication and contributed to student CSV import and PostgreSQL-backed API endpoints.
 - **MesclaInvest.** I contributed to the Firestore data model and startup catalog API, connected the Flutter dashboard to the API, and fixed how trades were aggregated in the chart.
+
+</details>
 
 <!-- Add a "## ✍️ >_ Technical Writing" section once your first article has a public link. -->
 
