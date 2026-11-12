@@ -58,4 +58,4 @@ I'm currently working on **ConsultaFácil**, a web application that helps clinic
 
 ## >_ Get in Touch
 
-I'm open to connecting about software engineering opportunities and collaborations.
+[Connect with me on LinkedIn](https://www.linkedin.com/in/gabriel-martins-610b39175/)
