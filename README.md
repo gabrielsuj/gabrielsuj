@@ -58,4 +58,4 @@ I'm currently working on **ConsultaFácil**, a web application that helps clinic
 
 ## >_ Get in Touch
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/gabriel-martins-610b39175/)
+[gabriel.martins4353@gmail.com](mailto:gabriel.martins4353@gmail.com)
