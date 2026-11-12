@@ -14,7 +14,7 @@ I'm currently working on **ConsultaFácil**, a web application that helps clinic
 - **Backend projects** · Java 21, JavaScript, TypeScript, Node.js, and REST APIs
 - **Databases** · SQL, PostgreSQL, and MongoDB
 - **Coursework** · Python fundamentals
-- **Currently exploring** · How APIs and interfaces can help people handle conflicts and recover from errors
+- **Currently exploring** · Data engineering and cybersecurity
 
 ## 🚀 >_ Software Projects
 
