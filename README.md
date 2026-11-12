@@ -4,7 +4,7 @@
 
 Thanks for stopping by.
 
-I'm **Gabriel Martins**, a Software Engineering student at PUC-Campinas in Brazil. I work on software projects with classmates.
+I'm **Gabriel Martins**, a Software Engineering student at PUC-Campinas in Brazil. I focus on backend development and data, and I'm exploring cybersecurity.
 
 I'm currently working on **ConsultaFácil**, a web application that helps clinics manage doctors' schedules and book appointments.
 
