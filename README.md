@@ -35,7 +35,7 @@ I'm currently working on **ConsultaFácil**, a web application that helps clinic
       <sub>Class rosters and grade management</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/MiguelFMont/ES-PI3-2026-T1-G30"><img src="https://opengraph.githubassets.com/0112232541bb64d217ec25c259c33616a6b0d8ebc2a400051b90b38733d4ef3c/MiguelFMont/ES-PI3-2026-T1-G30" width="100%" alt="MesclaInvest GitHub repository preview" /></a>
+      <a href="https://github.com/MiguelFMont/ES-PI3-2026-T1-G30"><img src="assets/mesclainvest-social-preview.png" width="100%" alt="MesclaInvest GitHub repository preview" /></a>
       <br />
       <a href="https://github.com/MiguelFMont/ES-PI3-2026-T1-G30"><strong>MesclaInvest</strong></a>
       <br />
